@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modern SPA</title>
+</head>
+<body>
+
+    <script src="./lib/lib-1.js"></script>
+    <script src="./lib/lib-2.js"></script>
+    <script src="./lib/lib-3.js"></script>
+    <script src="./lib/lib-4.js"></script>
+    <script src="./lib/lib-5.js"></script>
+    <script src="./lib/lib-6.js"></script>
+    <script src="./lib/lib-7.js"></script>
+    <script src="./lib/lib-8.js"></script>
+    <script src="./lib/lib-9.js"></script>
+    <script src="./lib/lib-10.js"></script>
+
+    <script>
+        const names = ['Adam', 'Marek', 'Basia', 'Kasia', 'Janek', 'Tomek']
+
+        names.forEach(name => {
+            console.log(name)
+            // WTF?!
+        })
+
+        const state = {
+            level: 1,
+            maxDiff: 'easy',
+            mapName: 'de-dust'
+        }
+
+        console.log(Object.values(state).length) // WTF?!
+    </script>
+</body>
+</html>
