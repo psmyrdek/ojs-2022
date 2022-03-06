@@ -4,7 +4,7 @@
 
 Po kilku pierwszych godzinach pracy z językiem JavaScript większość programistów zna już tzw. `template literals`, czyli szablony dzięki którym w łatwy sposób można budować stringi wzbogacane o dynamiczne zmienne. 
 
-Nie każdy wie, że bardziej zaawansowaną wersją szablonów są tzw. `tagged template literal`, czyli szablony otagowane. W tym ćwiczeniu twoim zadaniem jest zbudowanie szablonu, który będzie logował na konsoli samego siebie, w momencie kiedy jego parametry się zmienią. 
+Nie każdy wie, że bardziej zaawansowaną wersją szablonów są tzw. `tagged template literal`, czyli szablony otagowane. W tym ćwiczeniu twoim zadaniem jest zbudowanie szablonu, który będzie logował na konsolę string z dynamicznie aktualizowanymi parametrami. 
 
 ## Środowisko testowe
 
