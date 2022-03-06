@@ -9,6 +9,6 @@ Po wstępnej analizie okazuje się, że w obecnym stanie projekt nie działa pop
 ## Środowisko testowe
 
 1. Uruchom plik `index.js` w środowisku Node - `node index.js`
-2. Zmodyfikuj zastany kod w taki sposób, aby plik `index.js` był w stanie korzystać z trzech dostępnych serwisów do wysyłania wiadomości
+2. Zmodyfikuj zastany kod w taki sposób, aby moduł `index.js` był w stanie korzystać z trzech dostępnych serwisów do wysyłania wiadomości
 
 UWAGA: W przypadku projektów odziedziczonych każda wprowadzona modyfikacja niesie za sobą dodatkowe ryzyko, więc zastanów się jak naprawić projekt minimalną ilością wprowadzonych zmian
