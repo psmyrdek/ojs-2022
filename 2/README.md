@@ -9,4 +9,8 @@ Niestety, po wykorzystaniu serializacji okazuje się, że gra przestaje działa�
 ## Środowisko testowe
 
 1. Uruchom plik `index.js` w środowisku Node - `node index.js`
-2. Zmodyfikuj kod gry w taki sposób, aby zapisywanie i odczytywanie stanu gry działało pomiędzy instancjami tej samej klasy 
+2. Zmodyfikuj kod gry w taki sposób, aby zapisywanie i odczytywanie stanu gry działało pomiędzy instancjami tej samej klasy
+
+## Wskazówki
+
+Kliknij [TUTAJ](https://przeprogramowani.pl/public/zadania/2-typy-poza-kontrola.pdf)

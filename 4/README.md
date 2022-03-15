@@ -13,3 +13,7 @@ Twoim zadaniem jest:
 ## Środowisko testowe
 
 1. Otwórz w przeglądarce plik `index.html` aby rozpocząć pracę
+
+## Wskazówki
+
+Kliknij [TUTAJ](https://przeprogramowani.pl/public/zadania/4-tajemnice-przegladarki.pdf)

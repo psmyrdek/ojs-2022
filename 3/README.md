@@ -10,3 +10,7 @@ Nie każdy wie, że bardziej zaawansowaną wersją szablonów są tzw. `tagged t
 
 1. Uruchom plik `index.js` w przeglądarce lub w środowisku Node - `node index.js`
 2. Zmodyfikuj funkcję `magicTemplate` w taki sposób, aby umożliwiała logowanie oryginalnego stringu z nowymi parametrami
+
+## Wskazówki
+
+Kliknij [TUTAJ](https://przeprogramowani.pl/public/zadania/3-niezwykla-skladnia.pdf)

@@ -13,3 +13,7 @@ Twoim zadaniem jest rozpoznanie problemu i wprowadzenie odpowiedniej poprawki kt
 1. Zainstaluj niezbędne zależności poleceniem `npm install`
 2. Uruchom serwer express.js poleceniem `node backend.js`
 3. Otwórz w przeglądarce plik `subscriptions.html` aby rozpocząć pracę
+
+## Wskazówki
+
+Kliknij [TUTAJ](https://przeprogramowani.pl/public/zadania/5-asynchroniczna-komunikacja.pdf)
