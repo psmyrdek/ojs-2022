@@ -11,3 +11,5 @@ Mamy dla ciebie 5 zadań, które pomogą ci poznać 5 kluczowych obszarów JavaS
 5. [Asynchroniczna komunikacja](https://github.com/psmyrdek/ojs-2022/tree/master/5)
 
 Szukasz wskazówek? Zapisz się tutaj - https://js.przeprogramowani.pl/ - aby codziennie otrzymywać kolejne rozwiązania.
+
+Chcesz z łatwością rozwiązywać takie zadania? Dołącz do [Opanuj JavaScript](https://przeprogramowani.pl/kurs) i zdobądź doświadczenie w pracy z JavaScriptem, czyli najpopularniejszym językiem programowania!
